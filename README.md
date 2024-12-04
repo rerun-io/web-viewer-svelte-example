@@ -3,6 +3,6 @@
 Sample [SvelteKit](https://kit.svelte.dev/) app which opens a web viewer pointing to an `.rrd` file.
 
 ```
-$ pnpm i
-$ pnpm run dev
+$ npm install
+$ npm run dev
 ```
