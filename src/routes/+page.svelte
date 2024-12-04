@@ -1,6 +1,5 @@
 <script lang="ts">
   import { WebViewer } from "@rerun-io/web-viewer";
-  import { onMount } from "svelte";
 
   let ref: HTMLDivElement | null = $state(null);
   let rr: WebViewer | null = $state(null);
